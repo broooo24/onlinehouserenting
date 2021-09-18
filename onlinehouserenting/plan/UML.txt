@@ -1,0 +1,34 @@
+Owner
+	name
+	phone
+	email
+	
+	newRent
+	deleteRent
+	
+	
+House
+	descriptionOfHouse
+	pictureOfHouse
+	price
+	owner
+	phoneNumber
+
+
+Admin
+	name
+	phone
+	email
+	
+	banOwner
+	banCustomer
+	
+
+
+Customer
+	name
+	phone
+	email
+	
+	selectRent
+	showAllRent
